@@ -1,6 +1,6 @@
-## konstruct modloader
+## konstruct example mod
 
-#### konstruct is a modern modloader
+#### this is an example mod for the konstruct modloader
 
 ### Supported versions:
 1.20.1
@@ -11,4 +11,4 @@
 1.18> Needs JDK 17
 
 ### How to use
-
+someone may make a how to use?
